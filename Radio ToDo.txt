@@ -1,0 +1,11 @@
+- Andere Spannungsversorgung LM317 statt Arduino
+
+- Stützkondensatoren!
+
+- Jumper auf Pin 10 umstecken
+
+- Anderen Code verwenden (SI473X_ALL_IN_ONE_OLED_RDS_CHINESE_V9
+
+- Pins im Source code überprüfen
+
+- Pull-up Widerstände auf die I²C
