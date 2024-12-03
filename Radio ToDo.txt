@@ -1,11 +1,9 @@
-- Andere Spannungsversorgung LM317 statt Arduino
-
-- Stützkondensatoren!
-
-- Jumper auf Pin 10 umstecken
-
 - Anderen Code verwenden (SI473X_ALL_IN_ONE_OLED_RDS_CHINESE_V9
 
 - Pins im Source code überprüfen
 
-- Pull-up Widerstände auf die I²C
+- Kicad projekt neu machen: Keine Leiterbahnen auf der front. Alle buttons mit pinheader statt freihängenden Kabeln verbinden. Ausschnitt für den OLED Display auf der Front (vielleicht). 
+
+- Pull-up Widerstände auf I²C pins
+
+- Externe Ansteuerungen einprogrammieren
