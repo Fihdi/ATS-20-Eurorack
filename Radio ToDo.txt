@@ -1,9 +1,4 @@
-- Anderen Code verwenden (SI473X_ALL_IN_ONE_OLED_RDS_CHINESE_V9
-
-- Pins im Source code überprüfen
-
-- Kicad projekt neu machen: Keine Leiterbahnen auf der front. Alle buttons mit pinheader statt freihängenden Kabeln verbinden. Ausschnitt für den OLED Display auf der Front (vielleicht). 
-
-- Pull-up Widerstände auf I²C pins
-
-- Externe Ansteuerungen einprogrammieren
+-Upload new 3D enclosure
+-Update pictures
+-Add Build Guide
+-Add BOM and sources
