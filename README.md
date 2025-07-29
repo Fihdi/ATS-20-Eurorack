@@ -7,3 +7,5 @@ A regular 12VDC wall wart or a 9V battery can be used for standalone usage.
 ![](https://raw.githubusercontent.com/Fihdi/ATS-20-Eurorack/refs/heads/main/Radio.jpeg)
 
 ![](https://raw.githubusercontent.com/Fihdi/ATS-20-Eurorack/refs/heads/main/Radio2.jpeg)
+
+The module that you see in the picture above is using circuit boards that were fabricated by PCBWay. They have excellent build quality and I can recommend using their service to build your own projects! 
