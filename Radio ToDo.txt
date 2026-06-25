@@ -1,4 +1,3 @@
 -Upload new 3D enclosure
 -Update pictures
--Add Build Guide
--Add BOM and sources
+
