@@ -1,4 +1,6 @@
-# Radio Module based on the SI4732
+# 10hp Radio Module (WORK IN PROGRESS)
+
+**UPDATE 23rd August: Reworking this module by combining the A- and B-Board**
 
 An ATS-20 Radio port in 3U height. Jumpers on the PCB lets the device be used as an Eurorack module or as a standalone all-band receiver.
 
