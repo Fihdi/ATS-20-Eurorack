@@ -21363,7 +21363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:RS218-4243"
+		(property "Footprint" "Library:BNC5-J-P-GN-ST-TH2D"
 			(at 227.33 97.79 0)
 			(hide yes)
 			(show_name no)
