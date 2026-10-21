@@ -8,5 +8,17 @@ A regular 12VDC wall wart or a 9V battery can be used for standalone usage.
 
 ![](https://raw.githubusercontent.com/Fihdi/ATS-20-Eurorack/refs/heads/main/Radio2.jpeg)
 
+# Jumpers
+
+Changing the jumper on the back of the module from **SA** (Stand Alone mode) to **ER** (Eurorack mode) changes the output from headphone level to Eurorack level. In stand alone mode, the radio output is routed to an LM386 class AB amplifier. An 8-Ohm speaker can be connected to the amplifier with the **SP+** and **SP-** screw terminals.
+
+The I2C ADDR jumpers change the I2C address of the SI4732 IC.
+
+# 3D Model
+
+The 3D model for the case was designed by [SapuSeven](https://github.com/SapuSeven). The model in this github project is designed for the AS03208AS-HT speaker by PUI audio. The .step model can be downloaded modified to fit different speakers.
+
+# Sponsorship
+
 The module that you see in the picture above is using circuit boards that were fabricated by [PCBWay](https://www.pcbway.com/) They have excellent build quality and I can recommend using their service to build your own projects! I used the "Black" option for the soldermask and the surface has very deep and glossy black finish, which looks amazing, they also have an option for a "Matte Black" finish which I will try next time. Thank you PCBWay for sponsoring this module. 
 This is the first project that features a small OLED display, and thus the first project where I cut out a square section from the frontplate. This worked out really well and the corners are clean 90 degrees with no rounding. They are also having a 3D printing service, which means you can order the boards and the case for this radio all in one place.
