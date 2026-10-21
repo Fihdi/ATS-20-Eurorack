@@ -1,6 +1,4 @@
-# 10hp Radio Module (WORK IN PROGRESS)
-
-**UPDATE 23rd August: Reworking this module by combining the A- and B-Board**
+# 10hp Radio Module
 
 An ATS-20 Radio port in 3U height. Jumpers on the PCB lets the device be used as an Eurorack module or as a standalone all-band receiver.
 
