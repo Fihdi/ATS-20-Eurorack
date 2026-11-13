@@ -32,4 +32,4 @@ U2,1,LM386,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/
 U5,1,TDA1308,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,https://www.nxp.com/docs/en/data-sheet/TDA1308.pdf
 U6,1,L7805,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
 U9,1,SI4732,Package_SO:SOIC-16_4.55x10.3mm_P1.27mm,
-Y2,1,32.768k,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,
+Y2,1,32.768k,Crystal:Crystal_Round_D3.0mm_Vertical,
